@@ -3,51 +3,52 @@ layout: page
 ---
 {% include JB/setup %}
 
-<div id="slideshow" style="float: right; width: 35%; padding: 6px;">
-  <img src="{{ '/assets/IMG_3154.JPG' | relative_url }}" class="fade-slide active" style="width:100%;">
-  <img src="{{ '/assets/IMG_5833.PNG' | relative_url }}" class="fade-slide" style="width:100%;">
-  <img src="{{ '/assets/IMG_6196.PNG' | relative_url }}" class="fade-slide" style="width:100%;">
+<!-- put this near the top of your index.md, before the first paragraph -->
+<div id="slideshow" class="portrait-wrap">
+  <img src="{{ '/assets/IMG_3154.JPG' | relative_url }}" class="fade-slide active">
+  <img src="{{ '/assets/IMG_5833.PNG' | relative_url }}" class="fade-slide">
+  <img src="{{ '/assets/IMG_6196.PNG' | relative_url }}" class="fade-slide">
 </div>
 
-
 <style>
-#slideshow {
+/* Right-aligned portrait like the screenshot */
+.portrait-wrap{
+  float: right;
+  width: 320px;              /* ~300–360px looks like the screenshot */
+  margin: 0 0 12px 24px;     /* space between text and image */
   position: relative;
 }
-
-.fade-slide {
-  position: absolute;
-  top: 0;
-  left: 0;
-  opacity: 0;
-  transition: opacity 1s ease-in-out;
+.portrait-wrap img{
+  width: 100%;
+  display: block;
+  border-radius: 8px;        /* optional, looks nice */
 }
 
-.fade-slide.active {
-  opacity: 1;
-  z-index: 1;
+/* Fade slideshow behavior (you already had this) */
+.fade-slide{
+  position: absolute; top:0; left:0;
+  opacity: 0; transition: opacity 0.9s ease-in-out;
+}
+.fade-slide.active{ opacity: 1; z-index: 1; }
+
+/* Mobile: stack above the text, full width */
+@media (max-width: 768px){
+  .portrait-wrap{
+    float: none; width: 100%;
+    margin: 0 0 16px 0;
+  }
 }
 </style>
 
 <script>
   const slides = document.querySelectorAll("#slideshow .fade-slide");
   let index = 0;
-
-  function showSlide(i) {
-    slides.forEach((s, n) => {
-      s.classList.toggle("active", n === i);
-    });
-  }
-
-  function nextSlide() {
-    index = (index + 1) % slides.length;
-    showSlide(index);
-  }
-
-  // Start
+  function showSlide(i){ slides.forEach((s,n)=>s.classList.toggle("active", n===i)); }
+  function nextSlide(){ index = (index+1) % slides.length; showSlide(index); }
   showSlide(index);
-  setInterval(nextSlide, 4000); // every 4s
+  setInterval(nextSlide, 4000);
 </script>
+
 
 
 I am Varun Raveendra a 1st-year Robotics PhD Student at [The University of Utah](https://www.utah.edu/) in [ARIA Lab](https://aria-lab.cs.utah.edu/). I work Currently work on embodied multi-agent robots, RL on embodied robots, swarm robots. Focusing on AI for embodied robots. 
