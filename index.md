@@ -13,7 +13,7 @@ layout: page
 <style>
 .portrait-wrap{
   float: right;
-  width: 220px;              /* tweak: 280–360px */
+  width: 260px;              /* tweak: 280–360px */
   aspect-ratio: 1 / 1;       /* gives the box real height so text won’t overlap */
   margin: 0 0 12px 24px;
   position: relative;
