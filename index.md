@@ -73,7 +73,7 @@ Email ID: [varunraveendra@gmail.com](mailto:varunraveendra@gmail.com)
 <tr><td><b>Jan 2025:</b></td><td> Started PhD program in Robotics, advised by Prof. Daniel S Brown continuing at The U.</td></tr>
 <tr><td><b>Dec 2024:</b></td><td> A paper I co-authored <a href="https://dl.acm.org/doi/10.5555/3709347.3743781">Discovery and Deployment of Emergent Robot Swarm Behaviors via Representation Learning and Real2Sim2Real Transfer</a> was accepted at <a href="https://aamas2025.org/">AAMAS 2025</a></td></tr>
 <tr><td><b>Jun 2024:</b></td><td> Released new version of HeRo robots, <a href="https://github.com/varunraveendra/hero_plus">HeRo+</a></td></tr>
-<tr><td><b>Jul 2022:</b></td><td> Graduated with M.S in ECE at The U.</td></tr>
+<tr><td><b>Jul 2022:</b></td><td> Graduated with M.S in ECE at The UU.</td></tr>
 <tr><td><b>Dec 2023:</b></td><td> Started working on <a href="https://verlab.github.io/hero_common/">HeRo Robots</a> and improving them for swarm research.</td></tr>
 <tr><td><b>Jan 2023:</b></td><td> Research from Undergrad was published, <a href="https://link.springer.com/article/10.1007/s13198-025-02872-8">Waste managenment in urban localities: an IoT and machine learning solution.</a></td></tr>
 <tr><td><b>Aug 2022:</b></td><td> Started Master's in Electrical and Computer Science focusing on Robotics at <a href="https://www.utah.edu/">The U.</a></td></tr>
