@@ -5,9 +5,9 @@ layout: page
 
 <div id="slideshow" style="float: right; width: 35%; padding: 6px; position: relative;">
 
-  <img src="{{ site.url }}/assets/IMG_3154.jpg" class="fade-slide" style="width:100%;">
-  <img src="{{ site.url }}/assets/IMG_5833.png" class="fade-slide" style="width:100%;">
-  <img src="{{ site.url }}/assets/IMG_6196.png" class="fade-slide" style="width:100%;">
+  <img src="{{ site.url }}assets/IMG_3154.jpg" class="fade-slide" style="width:100%;">
+  <img src="{{ site.url }}assets/IMG_5833.png" class="fade-slide" style="width:100%;">
+  <img src="{{ site.url }}assets/IMG_6196.png" class="fade-slide" style="width:100%;">
 
 </div>
 
