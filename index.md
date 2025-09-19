@@ -3,11 +3,15 @@ layout: page
 ---
 {% include JB/setup %}
 
-<div id="slideshow" style="float: right; width: 35%; padding: 6px; position: relative;">
+<div id="slideshow" 
+     style="float: right; max-width: 250px; margin: 0 0 10px 20px; padding: 6px; position: relative;">
+
   <img src="{{ '/assets/IMG_3154.JPG' | relative_url }}" class="fade-slide active" style="width:100%;">
   <img src="{{ '/assets/IMG_5833.PNG' | relative_url }}" class="fade-slide" style="width:100%;">
   <img src="{{ '/assets/IMG_6196.PNG' | relative_url }}" class="fade-slide" style="width:100%;">
+
 </div>
+
 
 
 <style>
