@@ -18,8 +18,8 @@ twitter_username: varun_raveendra
 linkedin_username: varun-robotics
 stackoverflow: varun-raveendra
 include: ['_pages']
-footer-links-active:
-  stackoverflow: false
+# footer-links-active:
+#   stackoverflow: false
 
 # Build settings
 markdown: kramdown
