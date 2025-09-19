@@ -3,7 +3,7 @@ layout: page
 ---
 {% include JB/setup %}
 
-<!-- put this near the top of your index.md, before the first paragraph -->
+<!-- put this BEFORE your first paragraph -->
 <div id="slideshow" class="portrait-wrap">
   <img src="{{ '/assets/IMG_3154.JPG' | relative_url }}" class="fade-slide active">
   <img src="{{ '/assets/IMG_5833.PNG' | relative_url }}" class="fade-slide">
@@ -11,32 +11,28 @@ layout: page
 </div>
 
 <style>
-/* Right-aligned portrait like the screenshot */
 .portrait-wrap{
   float: right;
-  width: 320px;              /* ~300–360px looks like the screenshot */
-  margin: 0 0 12px 24px;     /* space between text and image */
+  width: 320px;              /* tweak: 280–360px */
+  aspect-ratio: 4 / 3;       /* gives the box real height so text won’t overlap */
+  margin: 0 0 12px 24px;
   position: relative;
-}
-.portrait-wrap img{
-  width: 100%;
-  display: block;
-  border-radius: 8px;        /* optional, looks nice */
+  border-radius: 8px;         /* optional */
+  overflow: hidden;           /* trims edges on fade */
 }
 
-/* Fade slideshow behavior (you already had this) */
 .fade-slide{
-  position: absolute; top:0; left:0;
-  opacity: 0; transition: opacity 0.9s ease-in-out;
+  position: absolute; inset: 0;
+  width: 100%; height: 100%; object-fit: cover;
+  opacity: 0; transition: opacity .9s ease-in-out;
 }
 .fade-slide.active{ opacity: 1; z-index: 1; }
 
-/* Mobile: stack above the text, full width */
+/* Mobile: stack above text, full width */
 @media (max-width: 768px){
-  .portrait-wrap{
-    float: none; width: 100%;
-    margin: 0 0 16px 0;
-  }
+  .portrait-wrap{ float:none; width:100%; aspect-ratio:auto; height:auto; margin:0 0 16px 0; }
+  .fade-slide{ position:static; opacity:1; display:none; }   /* show only active */
+  .fade-slide.active{ display:block; }
 }
 </style>
 
@@ -48,6 +44,7 @@ layout: page
   showSlide(index);
   setInterval(nextSlide, 4000);
 </script>
+
 
 
 
