@@ -4,12 +4,11 @@ layout: page
 {% include JB/setup %}
 
 <div id="slideshow" style="float: right; width: 35%; padding: 6px; position: relative;">
-
-  <img src="{{ site.url }}assets/IMG_3154.jpg" class="fade-slide" style="width:100%;">
-  <img src="{{ site.url }}assets/IMG_5833.png" class="fade-slide" style="width:100%;">
-  <img src="{{ site.url }}assets/IMG_6196.png" class="fade-slide" style="width:100%;">
-
+  <img src="{{ '/assets/IMG_3154.JPG' | relative_url }}" class="fade-slide active" style="width:100%;">
+  <img src="{{ '/assets/IMG_5833.PNG' | relative_url }}" class="fade-slide" style="width:100%;">
+  <img src="{{ '/assets/IMG_6196.PNG' | relative_url }}" class="fade-slide" style="width:100%;">
 </div>
+
 
 <style>
 #slideshow {
