@@ -39,6 +39,18 @@ layout: page
     margin: 0 0 8px 12px;
   }
 }
+header,
+.site-header,
+nav,
+.navbar,
+.site-nav,
+.site-nav .trigger,
+.site-nav .menu-icon,
+.site-nav .page-link {
+  position: relative !important;
+  z-index: 10000 !important;
+}
+
 
 </style>
 
