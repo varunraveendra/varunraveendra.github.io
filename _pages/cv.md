@@ -2,7 +2,7 @@
 layout: page
 title: CV
 permalink: /assets/cv.pdf
-order: 4
+order: 5
 ---
 
-[4-page CV]({{ site.url }}/assets/cv.pdf)
+[2-page CV]({{ site.url }}/assets/cv.pdf)

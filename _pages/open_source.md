@@ -1,59 +1,62 @@
 ---
 layout: page
-title: Other Projects
+title: Projects
 permalink: /other_projects/
 order: 6
 ---
 
-Outlining my non-published projects here (open source contributions, course research projects, designed homeworks). My research work can be seen [here](/research/).
-
-#### **Other Research (Course Projects)**
-
-[Self-supervised Learning on 3D Point Clouds](https://github.com/martiansideofthemoon/pointnet-acd-deformations): New algorithms for self-supervised learning on point clouds, where we teach models to discriminate between real and fake objects. To create fake objects, we perform global perturbations to segments of an object derived from [Approximate Convex Decomposition](https://arxiv.org/abs/2003.13834) ([report]({{ site.url }}/assets/point_cloud_discriminate.pdf)).
-
-[MixMatch on Vision + Language Tasks (NLVR2)](https://github.com/martiansideofthemoon/mixmatch-lxmert): An attempt to integrate the [MixMatch](https://arxiv.org/abs/1905.02249) data augmentation algorithm for semi-supervised image classification to the challenging setting of [NLVR2](http://lil.nlp.cornell.edu/nlvr), where the input space has both images and text ([report](https://sumanvid97.github.io/docs/cv_report.pdf)).
-
-[Research Exchange - A Collaborative Paper Annotation Tool](https://github.com/martiansideofthemoon/research-exchange) - A platform to collaboratively annotate scientific literature to help newcomers understand research papers, built during an Human Computer Interaction course project ([report]({{ site.url }}/assets/research-exchange.pdf)).
-
-[Inference Networks for Structured Prediction](https://github.com/TheShadow29/infnet-spen) - A TensorFlow implementation for the multi-label classification experiments in [Learning Approximate Inference Networks for Structured Prediction](https://arxiv.org/abs/1803.03376). Also contains experiments on the [FIGMENT](http://cistern.cis.lmu.de/figment/) dataset and a extension to Inference Network training algorithm based on [Wasserstein GANs](https://arxiv.org/abs/1704.00028) ([report](https://people.cs.umass.edu/~kalpesh/infnet.pdf)).
-
-[Diversity Sampling in Machine Learning](http://github.com/martiansideofthemoon/diversity-sampling) - An implementation of [Diverse Beam Search for Neural Networks](https://arxiv.org/abs/1610.02424) in Language Modelling. Also contains the original (slightly modified code) for the interactive segmentation experiments in [Diverse M-Best Solutions in MRFs](http://ttic.uchicago.edu/~gregory/papers/MBestModes.pdf) ([report](https://people.cs.umass.edu/~kalpesh/diversity.pdf)).
-
-[Macro Actions in Reinforcement Learning](https://github.com/martiansideofthemoon/macro-action-rl) - A suite of five algorithms (including ideas from "[Learning to Repeat: Fine Grained Action Repetition for Deep Reinforcement Learning](https://arxiv.org/abs/1702.06054)") encouraging agents to repeat actions ([report](https://people.cs.umass.edu/~kalpesh/macro.pdf)).
-
-[Single Image Haze Removal](https://github.com/martiansideofthemoon/blind-dehazing) - An implementation of He et al. 2009, "[Single Image Haze Removal using Dark Channel Prior](https://www.robots.ox.ac.uk/~vgg/rg/papers/hazeremoval.pdf)" and an ongoing implementation of Bahat & Irani 2016, "[Blind Dehazing using Internal Patch Recurrence](http://ieeexplore.ieee.org/document/7492870/)" ([report](https://people.cs.umass.edu/~kalpesh/dehaze.pdf)).
-
-[CNNs for Sentence Classification](https://github.com/martiansideofthemoon/tf-sentence-classification) - A TensorFlow 1.1 implementation of Kim 2014, "[Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882)".  
-
-[Brittle Fracture Simulation](https://github.com/martiansideofthemoon/brittle-fracture-simulation) - Python implementation of O'Brien and Hodgins 1999, "[Graphical Modeling and Animation of Brittle Fracture](http://graphics.berkeley.edu/papers/Obrien-GMA-1999-08/Obrien-GMA-1999-08.pdf)".  
-
-[ECG Signal Analysis](https://github.com/martiansideofthemoon/ecg-analysis) - Python implementation of parts of Christopher Buck, Aneesh Sampath 2013, “[ECG Signal Analysis for Myocardial Infarction Detection.](https://cnx.org/contents/VZtarYnV@2.1:WO1d4SJW@1/Introduction)”.  
-
-#### **Course Materials**
-
-[Homework](https://github.com/martiansideofthemoon/allennlp-probe-hw) on linguistic probe tasks designed for UMass Amherst's grad NLP class using [AllenNLP](https://allennlp.org/).
-
-#### **Open Source Contributions**
-
-* Primary Contributor / Maintainer - [mozilla/wptview](https://github.com/mozilla/wptview)
-* Significant Contributions - [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev/) (Firefox), [mozilla/treeherder](https://github.com/mozilla/treeherder), [mozilla/mozilla_ci_tools](https://github.com/mozilla/mozilla_ci_tools)
-* Other Contributions - [mozilla-b2g/gaia](https://github.com/mozilla-b2g/gaia/) (Firefox OS), [mozilla-bteam/bmo](https://github.com/mozilla-bteam/bmo) (Bugzilla), [rust-lang-nursery/rust-clippy](https://github.com/rust-lang-nursery/rust-clippy), [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet), [servo/servo](https://github.com/servo/servo), [w3c/web-platform-tests](https://github.com/w3c/web-platform-tests), [sunpy/sunpy](https://github.com/sunpy/sunpy), [taskcluster/taskcluster-client](https://github.com/taskcluster/taskcluster-client.py/graphs/contributors), [saketkc/fos-proposals](https://github.com/saketkc/fos-proposals), [mozilla/geckodriver](https://github.com/mozilla/geckodriver), [mozilla/pulse_actions](https://github.com/mozilla/pulse_actions)
+Outlining my non-published projects here. My research work can be seen [here](/research/).
 
 
-#### **Indian Language Datasets**
 
-As a part of my RnD project at [IIT Bombay](http://www.iitb.ac.in/), I am releasing the dataset used to train my neural network language models. These have been mined from Wikipedia and I hope this will help further research in language modelling for Indian morphologically rich languages. The folder also contains the original PTB dataset.
+<ul style="list-style-type:none; padding:0;">
 
-* Malayalam (denoted by `ml`)
-* Tamil (denoted by `ta`)
-* Kannada (denoted by `kn`)
-* Telugu (denoted by `te`)
-* Hindi (denoted by `hi`)
-* PTB (denoted by `ptb`)
+  <li style="margin-bottom:20px; display:flex; align-items:flex-start;">
+    <img src="{{ site.url }}/assets\Screenshot 2025-09-27 190822.png" alt="Project icon" style="width:120px; height:100px; margin-right:12px; border-radius:8px;">
+    <div>
+      <b><a href="https://github.com/varunraveendra/MOASEI">Adaptive learning for Open Agent Systems</a> - Winner of <a href="https://oasys-mas.github.io/moasei.html">MOASEI 2025 (Team Markov Mayhem)</a>:</b>  
+      Trained GNN-based RL agents capable of adapting to open environments and changes without relying on direct communication or a central controller. We focus on a wildfire scenario where robots with limited resources collaborate to extinguish randomly appearing and spreading fires.
+    </div>
+  </li>
 
-All these datasets are compatible with [SRILM](http://www.speech.sri.com/projects/srilm/). Files marked with `unk` have replaced all singletons with `<unk>` tokens. Files marked with `char` are character versions. All datasets have a `train`, `valid` and `test` file. You will find the dataset [here](https://drive.google.com/file/d/0B5Y_SiDYwIObaE52dmZ0YVFXckU/view?usp=sharing).
+  <li style="margin-bottom:20px; display:flex; align-items:flex-start;">
+    <img src="{{ site.url }}/assets\download (13).png" alt="Project icon" style="width:120px; height:100px; margin-right:12px; border-radius:8px;">
+    <div>
+      <b><a href="https://github.com/varunraveendra/hero_plus">Emergent Behaviour in Swarm Robots - HeRo+</a>:</b>  
+      Initiated a pilot program building real swarm robots and unified a comprehensive research methodology for analyzing swarm robot interactions, leading to the discovery of novel behaviors that accelerated collaborative tasks.
+    </div>
+  </li>
 
-### **Alternate PDF versions of papers**
+  <li style="margin-bottom:20px; display:flex; align-items:flex-start;">
+    <img src="{{ site.url }}/assets\Screenshot 2025-09-27 191358.png" alt="Project icon" style="width:120px; height:100px; margin-right:12px; border-radius:8px;">
+    <div>
+      <b>Localization and control of 3D printed autonomous robots:</b>  
+      Revised a real-time localization system that utilized camera data, improving localization accuracy in expansive environments, enabling precise navigation for swarm robotics applications. (<a href="{{ site.url }}/assets/Project_report.pdf">report</a>).
+    </div>
+  </li>
 
-RELiC paper: [paper](https://martiansideofthemoon.github.io/assets/relic_paper_gse.pdf)  
-RankGen paper: [paper](https://martiansideofthemoon.github.io/assets/rankgen_paper_gse.pdf)  
+  <li style="margin-bottom:20px; display:flex; align-items:flex-start;">
+    <img src="{{ site.url }}/assets\Screenshot 2025-09-27 191511.png" alt="Project icon" style="width:120px; height:100px; margin-right:22px; border-radius:8px;">
+    <div>
+      <b><a href="https://drive.google.com/drive/folders/1mS5n1qKa7mGy8g7BI4XrKXfhCRD2OjAR?usp=sharing">Design of a micro robotic continuum gripper for medical applications</a>:</b>  
+      Lead and created a groundbreaking micro robotic gripper prototype for minimally invasive surgeries, reducing average surgery time and 40% reduction in recovery time for patients.
+    </div>
+  </li>
+
+  <li style="margin-bottom:20px; display:flex; align-items:flex-start;">
+    <img src="{{ site.url }}/assets\unnamed.gif" alt="Project icon" style="width:120px; height:100px; margin-right:27px; border-radius:8px;">
+    <div>
+      <b><a href="https://docs.google.com/presentation/d/1twp7ky0DvGuVZm0ctbY1XvAyf--YSancfitZHPOH9O0/edit?usp=sharing">Motion Planning collision - Multi-Agent Path Plans (MAPF)</a>:</b>  
+      Deployed a multi-agent path planning software that facilitated collision-free navigation for 50+ robotic agents, enhancing operational efficiency.
+    </div>
+  </li>
+
+  <li style="margin-bottom:20px; display:flex; align-items:flex-start;">
+    <img src="{{ site.url }}/assets\Screenshot 2025-09-27 192733.png" alt="Project icon" style="width:110px; height:100px; margin-right:22px; border-radius:8px;">
+    <div>
+      <b><a href="https://drive.google.com/drive/folders/1jNbVTkcHG3a_q_6-8-3bifl1kgEmPHnu?usp=sharing">SLAM using Crazyflie</a>:</b>  
+      Teamed and implemented the integration of Nav2 with ROS2 on the Crazyflie drone. Created and tested a comprehensive simulation environment to assess the drone's mapping capabilities.
+    </div>
+  </li>
+
+</ul>

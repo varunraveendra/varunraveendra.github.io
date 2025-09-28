@@ -1,170 +1,130 @@
 ---
 layout: page
-title: Birding
-permalink: /birding/
-order: 3
+title: Outdoors
+permalink: /outdoors/
+order: 7
 ---
 
-Note: This page is not actively maintained. For my latest birding updates, please check my [eBird profile](https://ebird.org/profile/MTgwMDY0OQ/world) or [Instagram](https://www.instagram.com/kalpesh.krishna).
 
-I started my birding journey during the summer months of the 2020 pandemic watching backyard birds and I instantly fell in love with birds! One thing lead to another, and I bought a pair of binoculars, a camera, zoom lens and most importantly, joined [eBird](https://ebird.org/home). I love the challenge of growing [my life list](https://en.wikipedia.org/wiki/Life_list), learning about bird ID field marks, trying to photograph as many birds as possible and making friends with other bird watchers. I am also curious about ornithology, though admittedly I don't know much about it!
-
-So far, I've seen 1217 bird species worldwide, including 579 in India and 557 in USA (check out my full eBird profile [here](https://ebird.org/profile/MTgwMDY0OQ/world)). I am particularly fond of Indian birding, and in March 2023, I got a chance to speak at the [Hampshire Bird Club](https://hampshirebirdclub.org/) on my birding adventures in India. Check out the presentation on [this link](https://www.youtube.com/watch?v=X5hNkq-dBg4)!
-
-In this page I've posted some bird photographs I clicked during my first year as a bird watcher (2020-21). My more recent photos are available on eBird ([link](https://media.ebird.org/catalog?mediaType=photo&searchField=user&userId=USER1800649&sort=rating_rank_desc&unconfirmed=incl)), I will post some of them here when I get a chance.
-
-All photographs here have been taken using a Canon EOS 90D with a Sigma 100-400mm Contemporary DG OS HSM lens. All photos use shutter priority with auto-ISO and optical stabilization. Shutter speed is generally 1/640 for stationary birds and 1/800 for birds in flight. I also often over-expose birds in flight (using 1-2 stops of exposure compensation) due to white skies. To see the original resolution picture, right-click and open the image in a new tab, or download the image.
-
-<p style="text-align: center;">
-
-<p>Ruby-crowned Kinglet (<i>Regulus calendula</i>)</p>
-<img src="{{ site.url }}/assets/birding/kinglet.jpg" />
-
-<br /><br />
-
-<p>Pine Grosbeak (<i>Pinicola enucleator</i>)</p>
-<img src="{{ site.url }}/assets/birding/pine_grosbeak.jpg" />
-
-<br /><br />
-
-<p>Red-necked Phalarope (<i>Phalaropus lobatus</i>)</p>
-<img src="{{ site.url }}/assets/birding/red_necked_phalarope.jpg" />
-
-<br /><br />
-
-<p>American Robin (<i>Turdus migratorius</i>)</p>
-<img src="{{ site.url }}/assets/birding/robin.jpg" />
-
-<br /><br />
-
-<p>White-eyed Buzzard (<i>Butastur teesa</i>)</p>
-<img src="{{ site.url }}/assets/birding/white_eyed_buzzard.jpg" />
-
-<br /><br />
-
-<p>Willet (<i>Tringa semipalmata</i>)</p>
-<img src="{{ site.url }}/assets/birding/willet.jpg" />
-
-<br /><br />
-
-<p>Northern Waterthrush (<i>Parkesia noveboracensis</i>)</p>
-<img src="{{ site.url }}/assets/birding/northern_waterthrush.jpg" />
-
-<br /><br />
-
-<p>Red Crossbill (<i>Loxia curvirostra</i>)</p>
-<img src="{{ site.url }}/assets/birding/red_crossbill.jpg" />
-
-<br /><br />
-
-<p>Yellow-rumped Warbler (<i>Setophaga coronata</i>)</p>
-<img src="{{ site.url }}/assets/birding/yellow_rumped_warbler.jpg" />
-
-<br /><br />
-
-<p>Snowy Owl (<i>Bubo scandiacus</i>)</p>
-<img src="{{ site.url }}/assets/birding/snowy.jpg" />
-
-<br /><br />
-
-<p>Evening Grosbeak (<i>Coccothraustes vespertinus</i>)</p>
-<img src="{{ site.url }}/assets/birding/evening_grosbeak.jpg" />
-
-<br /><br />
-
-<p>Bald Eagle (<i>Haliaeetus leucocephalus</i>)</p>
-<img src="{{ site.url }}/assets/birding/bald_eagle.jpg" />
-
-<br /><br />
-
-<p>Red-tailed Hawk (<i>Buteo jamaicensis</i>)</p>
-<div class="image123">
-<div class="imgContainer" style="width: 49%;">
-<img src="{{ site.url }}/assets/birding/red_tail_1.JPG"  />
-</div>
-<div class="imgContainer" style="width: 49%; float: right;">
-<img src="{{ site.url }}/assets/birding/red_tail_2.JPG"  />
-</div>
-</div>
-
-<br /><br />
-
-<p>Veery (<i>Catharus fuscescens</i>)</p>
-<img src="{{ site.url }}/assets/birding/veery.jpg" />
-
-<br /><br />
-
-<p>Tree Swallow (<i>Tachycineta bicolor</i>)</p>
-<img src="{{ site.url }}/assets/birding/tree_swallow.jpg" />
-
-<br /><br />
-
-<p>Yellow-throated Vireo (<i>Vireo flavifrons</i>)</p>
-<img src="{{ site.url }}/assets/birding/yellow_throat_vireo.JPG" />
-
-<br /><br />
-
-<p>Snow Goose (<i>Anser caerulescens</i>)</p>
-<img src="{{ site.url }}/assets/birding/snow_goose.jpg" />
-
-<br /><br />
-
-<p>House Finch (<i>Haemorhous mexicanus</i>)</p>
-<img src="{{ site.url }}/assets/birding/finch.jpg" />
-
-<br /><br />
-
-<p>Mallard (<i>Anas platyrhynchos</i>)</p>
-
-<img src="{{ site.url }}/assets/birding/mallard.jpg" />
-
-<br /><br />
-
-<!-- <p>Red-winged Blackbird (<i>Agelaius phoeniceus</i>)</p>
-<img src="{{ site.url }}/assets/birding/redwing.jpg" />
-
-<br /><br /> -->
-
-<!-- <p>Barred Owl (<i>Strix varia</i>)</p>
-<div class="image123">
-<div class="imgContainer" style="width: 49%;">
-<img src="{{ site.url }}/assets/birding/barred_owl_1.JPG" />
-</div>
-<div class="imgContainer" style="width: 49%; float:right;">
-<img src="{{ site.url }}/assets/birding/barred_owl_3.JPG" />
-</div>
-</div>
-
-<div class="imgContainer">
-<img src="{{ site.url }}/assets/birding/barred_owl_2.JPG" />
-</div>
-
-<br /><br /> -->
-
-<p>Peregrine Falcon (<i> Falco peregrinus</i>)</p>
-<div class="image123">
-<div class="imgContainer" style="width: 49%;">
-<img src="{{ site.url }}/assets/birding/falcon_1.JPG" />
-</div>
-<div class="imgContainer" style="width: 49%; float:right;">
-<img src="{{ site.url }}/assets/birding/falcon_2.JPG" />
-</div>
-</div>
-
-<br /><br />
-
-<!-- <p>American Tree Sparrow (<i>Spizelloides arborea</i>)</p>
-<img src="{{ site.url }}/assets/birding/sparrow_1.jpg" /> -->
-
-<!-- <br />
-
-<img src="{{ site.url }}/assets/birding/sparrow_2.jpg" />
-
-<br /><br /> -->
-
-
+<!-- ---  GALLERY CSS (once per page) --- -->
 <style>
-.imgContainer{
-    display:inline-block;
-}
+  /* Grid that you can control per-section with --cols: 3 or 4 */
+  .gallery {
+    --cols: 3;                    /* default columns */
+    display: grid;
+    grid-template-columns: repeat(var(--cols), 1fr);
+    gap: 12px;
+    margin: 12px 0 28px 0;
+  }
+  .gallery figure {
+    margin: 0;
+    border-radius: 8px;
+    overflow: hidden;
+    background: #f7f7f7;
+  }
+  .gallery img {
+    width: 100%;
+    height: 100%;
+    aspect-ratio: 4 / 3;          /* uniform tiles */
+    object-fit: cover;
+    display: block;
+  }
+  .gallery figcaption {
+    font-size: 0.9rem;
+    padding: 6px 8px;
+    background: #fff;
+  }
+
+  /* Responsive fallbacks */
+  @media (max-width: 768px) {
+    .gallery { --cols: 2; }
+  }
+  @media (max-width: 480px) {
+    .gallery { --cols: 1; }
+  }
 </style>
+
+<!-- ===================== -->
+<!-- Car spotting (Row 1)  -->
+<!-- ===================== -->
+<h3>Car spotting</h3>
+<div class="gallery" style="--cols: 3;">
+  <figure>
+    <img src="{{ site.url }}/assets\IMG_1790.jpeg" alt="Car 1">
+    <figcaption>Car 1</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.url }}/assets\IMG_1795.JPG" alt="Car 2">
+    <figcaption>Car 2</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.url }}/assets\IMG_2708.JPG" alt="Car 3">
+    <figcaption>Car 3</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.url }}/assets\IMG_2785.JPG" alt="Car 4">
+    <figcaption>Car 4</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.url }}/assets\IMG_6014.jpeg" alt="Car 4">
+    <figcaption>Car 5</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.url }}/assets\IMG_6015.jpeg" alt="Car 4">
+    <figcaption>Car 6</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.url }}/assets\IMG_6018.jpeg" alt="Car 4">
+    <figcaption>Car 7</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.url }}/assets\IMG_6020.jpeg" alt="Car 4">
+    <figcaption>Car 8</figcaption>
+  </figure>
+  
+</div>
+
+<!-- ===================== -->
+<!-- Kayaking (Row 2)      -->
+<!-- ===================== -->
+<h3>Kayaking</h3>
+<!-- Change --cols to 3 to show 3 images per row -->
+<div class="gallery" style="--cols: 3;">
+  <figure>
+    <img src="{{ site.url }}/assets\IMG_4105.jpeg" alt="Kayak 1">
+    <figcaption>Kayak 1</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.url }}/assets\IMG_4111.jpeg" alt="Kayak 2">
+    <figcaption>Kayak 2</figcaption>
+  </figure>
+  <!-- <figure>
+    <img src="{{ site.url }}/assets/birding/kinglet.jpg" alt="Kayak 3">
+    <figcaption>Kayak 3</figcaption>
+  </figure> -->
+  <!-- add more figures if you want; they’ll wrap to the next row -->
+</div>
+
+<!-- ===================== -->
+<!-- Motorbiking (Row 3)   -->
+<!-- ===================== -->
+<h3>Motorbiking</h3>
+<div class="gallery" style="--cols: 3;">
+  <figure>
+    <img src="{{ site.url }}/assets\45c496f0-9a3b-4f07-b925-47542e64bd08.jpg" alt="Bike 1">
+    <figcaption>Bike 1</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.url }}/assets\IMG_0923.jpeg" alt="Bike 2">
+    <figcaption>Bike 2</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.url }}/assets\IMG_20200215_200927_103_Original.jpg" alt="Bike 3">
+    <figcaption>Bike 3</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.url }}/assets\IMG_20220524_203522_902_Original.jpg" alt="Bike 4" style="object-position: 50% 10%;">
+    <figcaption>Bike 4</figcaption>
+  </figure>
+</div>
+
