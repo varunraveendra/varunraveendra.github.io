@@ -13,29 +13,33 @@ layout: page
 </div>
 
 <style>
-.portrait-wrap{
+.portrait-wrap {
   float: right;
-  width: 255px;              /* tweak: 280–360px */
-  aspect-ratio: 1 / 1;       /* gives the box real height so text won’t overlap */
+  width: 255px;              /* desktop default */
+  aspect-ratio: 1 / 1;
   margin: 0 0 12px 24px;
   position: relative;
-  border-radius: 8px;         /* optional */
-  overflow: hidden;           /* trims edges on fade */
+  border-radius: 8px;
+  overflow: hidden;
+  max-width: 40%;            /* never take more than 40% of text width */
 }
 
-.fade-slide{
+.fade-slide {
   position: absolute; inset: 0;
   width: 100%; height: 100%; object-fit: cover;
   opacity: 0; transition: opacity .9s ease-in-out;
 }
-.fade-slide.active{ opacity: 1; z-index: 1; }
+.fade-slide.active { opacity: 1; z-index: 1; }
 
-/* Mobile: stack above text, full width */
-@media (max-width: 768px){
-  .portrait-wrap{ float:none; width:100%; aspect-ratio:auto; height:auto; margin:0 0 16px 0; }
-  .fade-slide{ position:static; opacity:1; display:none; }   /* show only active */
-  .fade-slide.active{ display:block; }
+/* Mobile: scale down but keep floated look */
+@media (max-width: 768px) {
+  .portrait-wrap {
+    width: 35%;      /* shrink relative to screen */
+    max-width: 160px; /* cap absolute size */
+    margin: 0 0 8px 12px;
+  }
 }
+
 </style>
 
 <script>
