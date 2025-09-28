@@ -51,6 +51,7 @@ nav,
   z-index: 10000 !important;
 }
 
+/* --- push slideshow below the header --- */
 
 </style>
 
