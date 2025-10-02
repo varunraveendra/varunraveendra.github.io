@@ -36,14 +36,6 @@ Outlining my non-published projects here. My research work can be seen [here](/r
   </li>
 
   <li style="margin-bottom:20px; display:flex; align-items:flex-start;">
-    <img src="{{ site.url }}/assets\Screenshot 2025-09-27 191511.png" alt="Project icon" style="width:120px; height:100px; margin-right:22px; border-radius:8px;">
-    <div>
-      <b><a href="https://drive.google.com/drive/folders/1mS5n1qKa7mGy8g7BI4XrKXfhCRD2OjAR?usp=sharing">Design of a micro robotic continuum gripper for medical applications</a>:</b>  
-      Lead and created a groundbreaking micro robotic gripper prototype for minimally invasive surgeries, reducing average surgery time and 40% reduction in recovery time for patients.
-    </div>
-  </li>
-
-  <li style="margin-bottom:20px; display:flex; align-items:flex-start;">
     <img src="{{ site.url }}/assets\unnamed.gif" alt="Project icon" style="width:120px; height:100px; margin-right:27px; border-radius:8px;">
     <div>
       <b><a href="https://docs.google.com/presentation/d/1twp7ky0DvGuVZm0ctbY1XvAyf--YSancfitZHPOH9O0/edit?usp=sharing">Motion Planning collision - Multi-Agent Path Plans (MAPF)</a>:</b>  
@@ -56,6 +48,14 @@ Outlining my non-published projects here. My research work can be seen [here](/r
     <div>
       <b><a href="https://drive.google.com/drive/folders/1jNbVTkcHG3a_q_6-8-3bifl1kgEmPHnu?usp=sharing">SLAM using Crazyflie</a>:</b>  
       Teamed and implemented the integration of Nav2 with ROS2 on the Crazyflie drone. Created and tested a comprehensive simulation environment to assess the drone's mapping capabilities.
+    </div>
+  </li>
+  
+  <li style="margin-bottom:20px; display:flex; align-items:flex-start;">
+    <img src="{{ site.url }}/assets\Screenshot 2025-09-27 191511.png" alt="Project icon" style="width:120px; height:100px; margin-right:22px; border-radius:8px;">
+    <div>
+      <b><a href="https://drive.google.com/drive/folders/1mS5n1qKa7mGy8g7BI4XrKXfhCRD2OjAR?usp=sharing">Design of a micro robotic continuum gripper for medical applications</a>:</b>  
+      Lead and created a groundbreaking micro robotic gripper prototype for minimally invasive surgeries, reducing average surgery time and 40% reduction in recovery time for patients.
     </div>
   </li>
 
