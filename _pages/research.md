@@ -14,6 +14,14 @@ I aim to advance the broader vision of AI for embodied robots, systems that seam
 ### Selected Papers
 
 <ul style="list-style-type:none; padding:0;">
+  <li style="margin-bottom:20px; display:flex; align-items:flex-start;">
+    <img src="{{ site.url }}/assets\r2bcmini.png" alt="Research icon" style="width:120px; height:100px; margin-right:12px; border-radius:8px;">
+    <div>
+      <b><a href="https://arxiv.org/abs/2510.18085">(New)R2BC: Multi-Agent Imitation Learning from Single-Agent Demonstrations</a></b><br>
+      Connor Mattson, <b><i>Varun Raveendra</i></b>, Ellen Novoseller, Nicholas Waytowich, Vernon J. Lawhern, Daniel S. Brown <br>
+      <strong>____ 2026</strong>
+    </div>
+  </li>
 
   <li style="margin-bottom:20px; display:flex; align-items:flex-start;">
     <img src="{{ site.url }}/assets\AAMAS-Swarms-Teaser (1).jpg" alt="Research icon" style="width:120px; height:100px; margin-right:12px; border-radius:8px;">
