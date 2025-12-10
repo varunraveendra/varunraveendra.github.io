@@ -17,6 +17,7 @@ github_username:  varunraveendra
 twitter_username: varun_raveendra
 linkedin_username: varun-robotics
 logo: "/assets/IMG_3154.JPG"
+image: "/assets/IMG_3154.JPG"
 # stackoverflow: varun-raveendra
 include: ['_pages']
 # footer-links-active:
