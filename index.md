@@ -1,5 +1,7 @@
 ---
 layout: page
+title: Home
+image: /assets/IMG_3154.JPG
 ---
 {% include JB/setup %}
 
