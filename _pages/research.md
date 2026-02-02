@@ -19,7 +19,7 @@ I aim to advance the broader vision of AI for embodied robots, systems that seam
     <div>
       <b><a href="https://arxiv.org/abs/2510.18085">(New) R2BC: Multi-Agent Imitation Learning from Single-Agent Demonstrations</a></b><br>
       Connor Mattson, <b><i>Varun Raveendra</i></b>, Ellen Novoseller, Nicholas Waytowich, Vernon J. Lawhern, Daniel S. Brown <br>
-      <!--<strong>____ 2026</strong>-->
+      <strong>ICRA 2026</strong>
     </div>
   </li>
 
