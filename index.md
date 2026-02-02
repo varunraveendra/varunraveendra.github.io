@@ -85,11 +85,11 @@ Email ID: [varunraveendra@gmail.com](mailto:varunraveendra@gmail.com)
 <table>
 <col width="100px">
 <col width="650px">
-<tr><td><b>Jan 2026:</b></td><td> A paper I co-authored <a href="https://arxiv.org/abs/2510.18085">R2BC: Mulit-Agent Imitation Learing from Single-Agent Demonstrations</a> was accepted at <a href="https://2026.ieee-icra.org/">ICRA 2026.</a></td></tr>
+<tr><td><b>Jan 2026:</b></td><td> A paper I co-authored <a href="https://arxiv.org/abs/2510.18085">R2BC: Mulit-Agent Imitation Learing from Single-Agent Demonstrations</a> was accepted at <a href="https://2026.ieee-icra.org/">ICRA 2026!</a></td></tr>
 <tr><td><b>Jun 2025:</b></td><td> Presented my research on Swarm robots at the Inaugral <a href="https://www.price.utah.edu/ai/summit-2025">Utah AI Summit.</a></td></tr>
 <tr><td><b>May 2025:</b></td><td> Presented at workshop <a href="https://arms2025.di.unimi.it/">ARMS 2025</a> at AAMAS 2025 on "Emergent Swarm Behavior Prediction using 1D-Convolution for Autonomous Closed-Loop Behavior Control". Won the MOASEI Competetion @ AAMAS25 on Open-agent systems! </td></tr>
 <tr><td><b>Jan 2025:</b></td><td> Started PhD program in Robotics, advised by Prof. Daniel S Brown continuing at The U.</td></tr>
-<tr><td><b>Dec 2024:</b></td><td> A paper I co-authored <a href="https://dl.acm.org/doi/10.5555/3709347.3743781">Discovery and Deployment of Emergent Robot Swarm Behaviors via Representation Learning and Real2Sim2Real Transfer</a> was accepted at <a href="https://aamas2025.org/">AAMAS 2025.</a></td></tr>
+<tr><td><b>Dec 2024:</b></td><td> A paper I co-authored <a href="https://dl.acm.org/doi/10.5555/3709347.3743781">Discovery and Deployment of Emergent Robot Swarm Behaviors via Representation Learning and Real2Sim2Real Transfer</a> was accepted at <a href="https://aamas2025.org/">AAMAS 2025!</a></td></tr>
 <tr><td><b>Jun 2024:</b></td><td> Released new version of HeRo robots, <a href="https://github.com/varunraveendra/hero_plus">HeRo+</a></td></tr>
 <tr><td><b>May 2024:</b></td><td> Graduated with M.S in ECE at The U.</td></tr>
 <tr><td><b>Dec 2023:</b></td><td> Started working on <a href="https://verlab.github.io/hero_common/">HeRo Robots</a> and improving them for swarm research.</td></tr>
