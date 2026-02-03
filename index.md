@@ -85,7 +85,7 @@ Email ID: [varunraveendra@gmail.com](mailto:varunraveendra@gmail.com)
 <table>
 <col width="100px">
 <col width="650px">
-<tr><td><b>Jan 2026:</b></td><td> A paper I co-authored <a href="https://arxiv.org/abs/2510.18085">R2BC: Mulit-Agent Imitation Learing from Single-Agent Demonstrations</a> was accepted at <a href="https://2026.ieee-icra.org/">ICRA 2026!</a></td></tr>
+<tr><td><b>Jan 2026:</b></td><td> A paper I co-authored <a href="https://arxiv.org/abs/2510.18085">R2BC: Multi-Agent Imitation Learning from Single-Agent Demonstrations</a> was accepted at <a href="https://2026.ieee-icra.org/">ICRA 2026!</a></td></tr>
 <tr><td><b>Jun 2025:</b></td><td> Presented my research on Swarm robots at the Inaugral <a href="https://www.price.utah.edu/ai/summit-2025">Utah AI Summit.</a></td></tr>
 <tr><td><b>May 2025:</b></td><td> Presented at workshop <a href="https://arms2025.di.unimi.it/">ARMS 2025</a> at AAMAS 2025 on "Emergent Swarm Behavior Prediction using 1D-Convolution for Autonomous Closed-Loop Behavior Control". Won the MOASEI Competetion @ AAMAS25 on Open-agent systems! </td></tr>
 <tr><td><b>Jan 2025:</b></td><td> Started PhD program in Robotics, advised by Prof. Daniel S Brown continuing at The U.</td></tr>
