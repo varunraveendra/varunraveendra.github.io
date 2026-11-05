@@ -15,9 +15,18 @@ I aim to advance the broader vision of AI for embodied robots, systems that seam
 
 <ul style="list-style-type:none; padding:0;">
   <li style="margin-bottom:20px; display:flex; align-items:flex-start;">
+    <img src="{{ site.url }}/assets/syncsbc-thumbnail.png" alt="Eight real swarm robots arranged in a ring during SyncSBC experiments" style="width:120px; height:100px; flex-shrink:0; margin-right:12px; border-radius:8px;">
+    <div>
+      <b><a href="https://arxiv.org/abs/2608.06587v1">SyncSBC: Decentralized Swarm Behavior Prediction for Synchronized Autonomous Control</a></b><br>
+      <b><i>Varun Raveendra</i></b>, Connor Mattson, Daniel S. Brown <br>
+      <strong>IROS 2026</strong>
+    </div>
+  </li>
+
+  <li style="margin-bottom:20px; display:flex; align-items:flex-start;">
     <img src="{{ site.url }}/assets\r2bcmini.png" alt="Research icon" style="width:120px; height:100px; margin-right:12px; border-radius:8px;">
     <div>
-      <b><a href="https://arxiv.org/abs/2510.18085">(New) R2BC: Multi-Agent Imitation Learning from Single-Agent Demonstrations</a></b><br>
+      <b><a href="https://arxiv.org/abs/2510.18085">R2BC: Multi-Agent Imitation Learning from Single-Agent Demonstrations</a></b><br>
       Connor Mattson, <b><i>Varun Raveendra</i></b>, Ellen Novoseller, Nicholas Waytowich, Vernon J. Lawhern, Daniel S. Brown <br>
       <strong>ICRA 2026</strong>
     </div>
@@ -37,6 +46,15 @@ I aim to advance the broader vision of AI for embodied robots, systems that seam
 ### Other Papers
 
 <ul style="list-style-type:none; padding:0;">
+  <li style="margin-bottom:20px; display:flex; align-items:flex-start;">
+    <img src="{{ site.url }}/assets/arm3-thumbnail.svg" alt="Generic mobile robot silhouette" style="width:120px; height:100px; flex-shrink:0; margin-right:12px; border-radius:8px;">
+    <div>
+      <b>ARM3 Bots: Adaptive, Reconfigurable, Modular Mobile Manipulators</b><br>
+      <b><i>Varun Raveendra</i></b>, Connor Mattson, Daniel S. Brown <br>
+      <strong>3rd Unconventional Robots Workshop @ ICRA 2026</strong>
+    </div>
+  </li>
+
 
   <li style="margin-bottom:20px; display:flex; align-items:flex-start;">
     <img src="{{ site.url }}/assets\Behavior prediction teaserTeaser (5) (2).jpg" alt="Research icon" style="width:120px; height:100px; margin-right:22px; border-radius:8px;">

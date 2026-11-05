@@ -12,9 +12,14 @@ image: /assets/IMG_3154.JPG
   <img src="{{ '/assets/IMG_6196.PNG' | relative_url }}" class="fade-slide">
   <img src="{{ '/assets/IMG_3902.jpg' | relative_url }}" class="fade-slide">
   <img src="{{ '/assets/IMG_1035.jpg' | relative_url }}" class="fade-slide">
+  <img src="{{ '/assets/IMG_1652.jpeg' | relative_url }}" class="fade-slide" alt="Kayaking beside a rock wall">
+  <img src="{{ '/assets/IMG_2372.jpeg' | relative_url }}" class="fade-slide" alt="Hiking above a canyon" style="object-position: 50% 75%;">
+  <img src="{{ '/assets/IMG_9448.jpg' | relative_url }}" class="fade-slide" alt="Portrait photo">
 </div>
 
 <style>
+.updates-table td { vertical-align: top; }
+
 .portrait-wrap {
   float: right;
   width: 255px;              /* desktop default */
@@ -69,22 +74,22 @@ nav,
 
 
 
-I am Varun Raveendra, a first-year PhD Student in Robotics at the [University of Utah](https://www.utah.edu/), where I am a part of the [Aligned, Robust and Interactive Autonomy Lab (ARIA)](https://aria-lab.cs.utah.edu/) advised by Prof. [Daniel S Brown](https://users.cs.utah.edu/~dsbrown/). My research focuses on embodied multi-agent systems, Reinforcement Learning for embodied intelligence, and swarm robots, with a broader interest in advancing AI for embodied robots. 
+I am Varun Raveendra, a second-year PhD Student in Robotics at the [University of Utah](https://www.utah.edu/), where I am a part of the [Aligned, Robust and Interactive Autonomy Lab (ARIA)](https://aria-lab.cs.utah.edu/) advised by Prof. [Daniel S Brown](https://users.cs.utah.edu/~dsbrown/). My research focuses on embodied multi-agent systems, Reinforcement Learning for embodied intelligence, and swarm robots, with a broader interest in advancing AI for embodied robots.
 
-
-I previously completed my Master's Electrical Engineering at the University of Utah, also in robotics, under the guidance of Prof. [Daniel S Drew](https://danieldrew.me/). Before The U, I received my undergraduate degree in Electronics and Communication from [NMIT, India](https://nitte.edu.in/nmit/). I've worked on a range of electronics and robotics projects, including an internship at Tevatron Technologies in Bangalore, India where I worked on STM microcontrollers and embedded systems.
-
-These academic and industry experiences have shaped my background in robotics and motivated my transition from coursework to research-driven exploration. I've started publishing my research recently and have started to maintain a list of my publications under the [Research]({{ site.url }}/research) section. 
 
 [CV / Resume]({{ site.url }}/assets/cv.pdf), [Google Scholar](https://scholar.google.com/citations?user=dXmPROMAAAAJ&hl=en)  
-Email ID: [varunraveendra@gmail.com](mailto:varunraveendra@gmail.com)  
+Email: [varun.raveendra@utah.edu](mailto:varun.raveendra@utah.edu), [varunraveendra@gmail.com](mailto:varunraveendra@gmail.com)
 
 #### Updates
 
 <div style="height:300px;overflow:auto; border:1px solid #999; padding-left: 0.7em; padding-right: 0.7em">
-<table>
+<table class="updates-table">
 <col width="100px">
 <col width="650px">
+<tr><td><b>Sep 2026:</b></td><td> Presented <a href="https://arxiv.org/abs/2608.06587v1">SyncSBC</a> at IROS 2026!</td></tr>
+<tr><td><b>Jun 2026:</b></td><td> Workshop paper "ARM3 Bots: Adaptive, Reconfigurable, Modular Mobile Manipulators" was accepted and presented at ICRA 2026!</td></tr>
+<tr><td><b>Jun 2026:</b></td><td> A paper I authored, <a href="https://arxiv.org/abs/2608.06587v1">SyncSBC: Decentralized Swarm Behavior Prediction for Synchronized Autonomous Control</a>, was accepted at IROS 2026!</td></tr>
+<tr><td><b>May 2026:</b></td><td> <a href="https://www.co.bot/">Software Intern @ Cobot</a>! Developed a multi-robot simulator platform for training multi-robot policies and evaluating multi-robot workflows. Designed the first-ever Multi Proxie Coordination Stack in simulation and deployed it on real robots!</td></tr>
 <tr><td><b>Jan 2026:</b></td><td> A paper I co-authored <a href="https://arxiv.org/abs/2510.18085">R2BC: Multi-Agent Imitation Learning from Single-Agent Demonstrations</a> was accepted at <a href="https://2026.ieee-icra.org/">ICRA 2026!</a></td></tr>
 <tr><td><b>Jun 2025:</b></td><td> Presented my research on Swarm robots at the Inaugral <a href="https://www.price.utah.edu/ai/summit-2025">Utah AI Summit.</a></td></tr>
 <tr><td><b>May 2025:</b></td><td> Presented at workshop <a href="https://arms2025.di.unimi.it/">ARMS 2025</a> at AAMAS 2025 on "Emergent Swarm Behavior Prediction using 1D-Convolution for Autonomous Closed-Loop Behavior Control". Won the MOASEI Competetion @ AAMAS25 on Open-agent systems! </td></tr>
